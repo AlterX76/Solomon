@@ -9,7 +9,7 @@ Chats, notifications, multicast, every kind of applications like Evernote, whats
 
 Example of client/server Solomon enabled applications:
 <br>
-Mobile Softair game (Android, iPhone, Nokia n9, Symbian ^3, Blackberry): http://www.softairrealfight.net
+Mobile Softair (Android, iPhone, Nokia n9, Symbian ^3, Blackberry): http://www.softairrealfight.net
 <br>
 Mobile Android shake and chat: http://www.softairrealfight.net/transfer/bubblesChat.apk
 
