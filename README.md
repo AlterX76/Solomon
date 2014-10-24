@@ -8,6 +8,7 @@ Just create your own protocol objects and you can easily implement:
 Chats, notifications, multicast, every kind of applications like Evernote, whatsapp, distribuited games and so on...
 
 Example of client/server Solomon enabled applications:
+<br>
 Mobile Softair game (Android, iPhone, Nokia n9, Symbian ^3, Blackberry): http://www.softairrealfight.net
 <br>
 Mobile Android shake and chat: http://www.softairrealfight.net/transfer/bubblesChat.apk
