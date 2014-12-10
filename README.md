@@ -12,7 +12,7 @@ Example of client/server Solomon enabled applications:
 Mobile Softair (Android, iPhone, Nokia n9, Symbian ^3, Blackberry): http://www.softairrealfight.net
 <br>
 Mobile Android shake and chat: http://www.softairrealfight.net/transfer/bubblesChat.apk
-<br>
+<br><br>
 Qt tic-tac-toe modified for online gaming (source will be added in repository):
 <br>
 android: http://softairrealfight.net/transfer/tictactoe.apk
