@@ -13,7 +13,7 @@ Mobile Softair (Android, iPhone, Nokia n9, Symbian ^3, Blackberry): http://www.s
 <br>
 Mobile Android shake and chat: http://www.softairrealfight.net/transfer/bubblesChat.apk
 <br><br>
-Qt tic-tac-toe modified for online gaming (source will be added in repository):
+Qt tic-tac-toe modified for online game:
 <br>
 android: http://softairrealfight.net/transfer/tictactoe.apk
 <br>
