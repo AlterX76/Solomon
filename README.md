@@ -1,4 +1,4 @@
-Solomon
+Solomon v 2.6
 =======
 
 Cross-platform network framework library to implement client/server architectures.
