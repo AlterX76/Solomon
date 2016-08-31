@@ -1,7 +1,7 @@
 Solomon - version 2.7
 =======
 
-Cross-platform network framework library to implement client/server architectures.
+Cross-platform network framework library to implement client/server or peer-to-peer architectures.
 
 Add astonishing and professional functionalities to your mobile/desktop applications easily.
 Just create your own logical protocol and objects and you are ready with your software!
