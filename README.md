@@ -1,4 +1,4 @@
-Solomon - version 2.7
+Solomon - version 2.7 - IoT support (ARM Raspberry 2)
 =======
 
 Cross-platform network framework library to implement client/server or peer-to-peer architectures.
