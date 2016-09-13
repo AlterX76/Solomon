@@ -8,7 +8,7 @@ Add astonishing and professional functionalities to your mobile/desktop applicat
 Just create your own logical protocol and objects and you are ready with your software!
 Thanks to its nature, you can have real-time, critical-mission server/client like: chat server, notification systems, multicast, betting or financial systems, every kind of applications like Evernote, whatsapp, distribuited games and so on...
 
---- Binaries are distributed for FREE and without any LIMITATION ---
+<b>--- Binaries are distributed for FREE and without any LIMITATION ---</b>
 
 
 It provides a professional server with advanced features like:
