@@ -1,7 +1,7 @@
 Solomon - version 2.7 - IoT support (ARM Raspberry 2)
 =======
 
-<center><img src='IoT.jpg' /></center></br></br>
+<a href='http://www.softairrealfight.net/news.php?IDnews=23'><img src='IoT.jpg'/></a></br></br>
 Cross-platform network framework library to implement client/server or peer-to-peer architectures.
 
 Add astonishing and professional functionalities to your mobile/desktop applications easily.
