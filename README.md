@@ -1,4 +1,4 @@
-Solomon - version 3.0 - IoT support (ARM Raspberry 2)
+libSolomon - version 3.0 - IoT support (ARM Raspberry 2)
 =======
 
 <a href='http://www.softairrealfight.net/news.php?IDnews=23' target=_blank><img src='IoT.jpg'/></a></br></br>
