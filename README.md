@@ -24,7 +24,7 @@ It provides a professional server with advanced features like:
 * Memory-slot support to reduce I/O from a storage available for both UDP and TCP
 * File Upload capability 
 * (<b>NEW</b>) Support for temporary or permanent connections
-* (<b>NEW</b>) Support for hot-load plugins without restarting a server
+* (<b>NEW</b>) Support for hot-load plugins (add/replace/remove commands) without restarting a server
 * Cluster support communication over UDP
 * A full open-source plug-in to load default settings at start-up (the provided one implements mysql support and xml-based settings)
 
