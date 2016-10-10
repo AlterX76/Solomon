@@ -1,4 +1,4 @@
-Solomon - version 2.7 - IoT support (ARM Raspberry 2)
+Solomon - version <font color='blue'><b>3.0</b></font> - IoT support (ARM Raspberry 2)
 =======
 
 <a href='http://www.softairrealfight.net/news.php?IDnews=23' target=_blank><img src='IoT.jpg'/></a></br></br>
@@ -24,6 +24,7 @@ It provides a professional server with advanced features like:
 * Memory-slot support to reduce I/O from a storage available for both UDP and TCP
 * File Upload capability 
 * (<b>NEW</b>) Support for temporary or permanent connections
+* (<b>NEW</b>) Support for <font color='darkred'>hot-load</font> plugins without restarting a server
 * Cluster support communication over UDP
 * A full open-source plug-in to load default settings at start-up (the provided one implements mysql support and xml-based settings)
 
