@@ -13,8 +13,8 @@ Thanks to its nature, you can have real-time, critical-mission server/client lik
 
 Supported systems:
 
-* client: Windows, Linux, MacOSX, Raspberry, Android, iOS, Blackberry10
-* server: Linux, Raspberry
+* client: <b>Windows, Linux, MacOSX, Raspberry, Android, iOS, Blackberry10</b>
+* server: <b>Linux, Raspberry</b>
 
 
 It provides a professional server with advanced features like:
