@@ -11,6 +11,12 @@ Thanks to its nature, you can have real-time, critical-mission server/client lik
 <b>--- Binaries are distributed for FREE and without any LIMITATION ---</b>
 
 
+Supported systems:
+
+* client: Windows, Linux, MacOSX, Raspberry, Android, iOS, Blackberry10
+* server: Linux, Raspberry
+
+
 It provides a professional server with advanced features like:
 
 * Able to serve UDP and TCP requests in parallel within one instance
