@@ -1,4 +1,4 @@
-libSolomon - version 3.0 - IoT support (ARM Raspberry 2)
+libSolomon - version 4.0 - SSL/TLS connection support
 =======
 
 <a href='http://www.softairrealfight.net/news.php?IDnews=23' target=_blank><img src='IoT.jpg'/></a></br></br>
@@ -14,7 +14,7 @@ Thanks to its nature, you can have real-time, critical-mission server/client lik
 Supported systems:
 
 * client: <b>Windows, Linux, MacOSX, Raspberry, Android, iOS, Blackberry10</b>
-* server: <b>Linux, Raspberry</b>
+* server: <b>Linux, Raspberry 2</b>
 
 
 It provides a professional server with advanced features like:
@@ -29,8 +29,9 @@ It provides a professional server with advanced features like:
 * Integrity checks performed on requests avoiding useless cpu-time and memory consumption
 * Memory-slot support to reduce I/O from a storage available for both UDP and TCP
 * File Upload capability 
-* (<b>NEW</b>) Support for temporary or permanent connections
-* (<b>NEW</b>) Support for hot-load plugins (add/replace/remove commands) without restarting a server
+* (<b>NEW</b>) Enable/Disable TLS support for server/client nodes
+* Support for temporary or permanent connections
+* Support for hot-load plugins (add/replace/remove commands) without restarting a server
 * Cluster support communication over UDP
 * A full open-source plug-in to load default settings at start-up (the provided one implements mysql support and xml-based settings)
 
