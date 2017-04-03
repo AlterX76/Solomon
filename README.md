@@ -2,7 +2,7 @@ libSolomon - version 4.0 - SSL/TLS connection support
 =======
 
 <a href='http://www.softairrealfight.net/news.php?IDnews=23' target=_blank><img src='IoT.jpg'/></a>
-Developed with<img src='openssl.jpg' />
+<img src='openssl.jpg' />
 </br></br>
 Cross-platform network framework library to implement client/server or peer-to-peer architectures.
 
