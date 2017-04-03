@@ -15,7 +15,7 @@ Thanks to its nature, you can have real-time, critical-mission server/client lik
 
 Supported systems:
 
-* client: <b>Windows, Linux, MacOSX, Raspberry, Android, iOS, Blackberry10</b>
+* client: <b>Windows, Linux, MacOSX, Raspberry, Android, iOS, WinRT, Blackberry10 (old version without support for TLS)</b>
 * server: <b>Linux, Raspberry 2</b>
 
 
